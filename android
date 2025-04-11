@@ -1,0 +1,12 @@
+android/app/build.gradle
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        applicationId "com.example.drug_discovery_app"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+    }
+}
